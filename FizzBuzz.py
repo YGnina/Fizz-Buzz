@@ -1,3 +1,18 @@
+
+#Test input
+#3 5 10
+#Expected output
+#1 2 F 4 B F 7 8 F B
+
+#Test input
+#2 7 15
+#Expected output
+#1 F 3 F B F 9 F 11 F 13 FB 15
+
+
+
+
+
 import sys
 
 try:
